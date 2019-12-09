@@ -2,6 +2,6 @@
 
 Hello World
 
-# Educatio
+# Education
 
 College
