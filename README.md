@@ -1,3 +1,2 @@
-# diego-gh.github.io
-
+# Resume
 Hello World
